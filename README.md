@@ -25,7 +25,7 @@ Option 2: If you use Linux x86-64 (like me) you can use a ready release:<br>
 
 # Videos
 Explaining...: https://youtu.be/hf_up2DuCaI <br>
-Example of use: https://youtu.be/Rb5LJCGosGk<br>
+Example of use: https://youtu.be/CtoOl9FGTGM<br>
 
 # Next steps
 -Bugs fixes<br>
