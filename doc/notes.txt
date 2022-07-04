@@ -1,0 +1,34 @@
+
+::: GUIA RÁPIDO :::   PORTUGUÊS  :::
+1-Se for o 1º uso   : python config.py
+2-2º uso em diante  : ./keylight (Linux)
+                        keylight.exe (Windows)
+
+:: ARQUIVOS :::
+Software    arquivo             funcao
+----------- ------------------- -----------------------------------------------------------
+Python      config              chama Tela.py (tela de configurações que grava param.cfg)
+PAGE        Tela                chama interface_support.py
+PAGE        interface_support   Lista componentes básicos da tela
+(config.py) param.cfg           parâmetros necessários para tela.py
+
+UPBge       onload              carrega os parâmetros de inicialização
+UpBge       onupdate            onde as animações acontecem(em longos blocos 'Se' de acordo com o valor da variável anim)
+UpBge
+
+::: QUICK GUIDE :::    ENGLISH  :::
+1-If the software was used for the first time: python config.py
+2-2º use and beyond: ./keylight (Linux)
+                     keylight.exe (Windows)
+
+:: FILES :::
+Software    file                function
+----------- ------------------- -----------------------------------------------------------
+Python      config              calls Tela.py (configurations screen that creates/modify param.cfg)
+PAGE        Tela                calls interface_support.py
+PAGE        interface_support   List basic compounds of screen
+(config.py) param.cfg           needed parameters for tela.py
+
+UPBge       onload              carrega os parâmetros de inicialização
+UpBge       onupdate            onde as animações acontecem(em longos blocos 'Se' de acordo com o valor da variável anim)
+UpBge
